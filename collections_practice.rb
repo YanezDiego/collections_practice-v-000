@@ -40,5 +40,5 @@ end
 
 def kesha_maker(array)
   new_array = []
-    
+  i = 0
 end
