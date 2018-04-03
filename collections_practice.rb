@@ -60,4 +60,5 @@ def add_s (array)
       plural
     else
       plural + 's'
+    end
 end
