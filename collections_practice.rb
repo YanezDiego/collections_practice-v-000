@@ -43,3 +43,8 @@ def kesha_maker(array)
     new[2] = ("$")
   end
 end
+
+def find_a(array)
+  array.find_all {|new| new.start_with('a')}
+  
+end
