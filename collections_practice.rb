@@ -41,4 +41,5 @@ end
 def kesha_maker(array)
   array.each do |new|
     new[2] = ("$")
+  end
 end
